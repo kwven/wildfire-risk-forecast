@@ -1,0 +1,2 @@
+model,sequence_length,threshold,test_roc_auc,test_pr_auc,test_rows,test_positive_rate
+temporal_cnn,30,0.9696123003959656,0.9063039455740766,0.33128584213524803,236895,0.010308364465269422
